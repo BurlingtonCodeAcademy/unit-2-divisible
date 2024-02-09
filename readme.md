@@ -8,8 +8,8 @@ In this lab, we will be practicing writing functions, conditional logic, Boolean
 
 Topics
 
-- `%` Remainder operator
-- `if...else` statements
+- [`%` Remainder operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Remainder)
+- [`if...else` statements](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else)
 - Boolean values `true` and `false`
 
 ## Achieving
